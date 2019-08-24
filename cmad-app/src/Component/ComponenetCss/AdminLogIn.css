@@ -1,0 +1,13 @@
+.AdminLoginInput > input{
+     padding: 5px;
+     border-radius: 5px;
+     color: blue;
+    
+}
+.Button{
+    padding: 5px;
+    color: chartreuse;
+}
+.Input{
+    color: darkgoldenrod;
+}
